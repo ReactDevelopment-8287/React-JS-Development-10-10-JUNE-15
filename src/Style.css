@@ -1,0 +1,30 @@
+header {
+    height: 60px;
+    border: 1px dashed #000;
+    background-color: #702CF6;
+}
+
+footer {
+    background-color: #F8F9FA;
+    min-height: 768px;
+    border: 1px dashed #000
+}
+
+
+main {
+    height: 1000px;
+
+}
+
+/* .a_cont {
+    border: 5px dashed blue;
+
+} */
+
+.a_rightaside {
+    border: 1px dashed black
+}
+
+.a_leftaside {
+    border: 1px dashed black;
+}
